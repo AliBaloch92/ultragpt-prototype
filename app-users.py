@@ -6,7 +6,7 @@ import html2text
 import requests
 import json
 import streamlit as st
-openai.api_key = "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"
+openai.api_key = " api key "
 
 
 
@@ -19,7 +19,7 @@ def BitcoinPriceAnalysis():
     querystring = {
         "referenceCurrencyUuid": "yhjMzLPhuIDl", "timePeriod": "7d"}
     headers = {
-        "X-RapidAPI-Key": "coinrankingba61bbec8137180f55ec0bb18752e5510711475039d5faf0",
+        "X-RapidAPI-Key": "api key ",
         "X-RapidAPI-Host": "coinranking1.p.rapidapi.com"
     }
 
@@ -134,7 +134,7 @@ Please keep this information in mind and generate a prompt about  """ + input}
     url = 'https://stablediffusionapi.com/api/v3/text2img'
 
     data = {
-        "key": "5eYezIGrW49JgCiCxBzBj8ofjiGWMDVkSr2nTUWfp2SbBmchwloSHYx7gheo",
+        "key": " api key ",
         "prompt": promptGenerated,
         "negative_prompt": "",
         "width": "512",
