@@ -1,5 +1,6 @@
-# ultragpt-prototype
-#  You Can Generate Images, Analyze Current Crypto Prices, and Search The Web With ChatGPT
+# UltraGPT-prototype
+<h3 align="center"> You Can Generate Images, Analyze Current Crypto Prices, and Search The Web With UltraGPT</h3>
+
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 <h3 align="center">A passionate Python Developer & Prompt Engineer</h3>
 
