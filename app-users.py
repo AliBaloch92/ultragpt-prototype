@@ -134,7 +134,7 @@ Please keep this information in mind and generate a prompt about  """ + input}
     url = 'https://stablediffusionapi.com/api/v3/text2img'
 
     data = {
-        "key": " api key ",
+        "key": " your  api key ",
         "prompt": promptGenerated,
         "negative_prompt": "",
         "width": "512",
