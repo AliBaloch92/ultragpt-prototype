@@ -6,7 +6,7 @@ import html2text
 import requests
 import json
 import streamlit as st
-openai.api_key = " your  api key "
+openai.api_key = " your openai api key "
 
 
 
