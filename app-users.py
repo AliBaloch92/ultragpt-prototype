@@ -6,7 +6,7 @@ import html2text
 import requests
 import json
 import streamlit as st
-openai.api_key = " add chatgpt api key "
+openai.api_key = " add your chatgpt api key "
 
 
 
